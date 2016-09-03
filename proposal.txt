@@ -1,0 +1,27 @@
+1.implement of hardware
+	1.design a better USB flash drive.(especially in deleting compleletly)
+2.implement of software(mainly)
+	Method:1.throught current exist software.	
+				1.the helpful function the software provided.
+				2.fundmantally basis of functions
+		   2.restart compleltely.
+		   		1.discover the pattern of flash disk.(schema of hardware)
+				2.through scanning,to find the mapped table.
+
+
+Ideas:
+To get map table:
+1.through scan,get the map table.
+
+wear-leveling:
+1.no wear-leveling
+2.dynamic wear-leveling (mainly)
+3.static wear-leveling  (secondary)
+
+schedule:
+1.mon: search for related information
+2.tue: start and almost complete proposal.
+	   submit proposal to teacher
+3.wen: wait the response of teacher.
+4.tur: deadline of signing up and hand in related material.
+
